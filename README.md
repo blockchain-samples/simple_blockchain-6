@@ -1,4 +1,4 @@
-# simple_blockchain
+# Simple_blockchain
 this script is the c++ version of [Let’s Build the Tiniest Blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 
 # Requirement
